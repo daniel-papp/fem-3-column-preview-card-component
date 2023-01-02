@@ -4,7 +4,7 @@
 
 In this project I created a preview component containing three product cards. The preview supports desktop and mobile layouts with the help of flexbox.
 
-[Live Site](https://daniel-papp.github.io/fem-3-column-prewiev-card-component/)
+[Live Site](https://daniel-papp.github.io/fem-3-column-preview-card-component/)
 ### Screenshot
 
 ![](./images/screenshot.png)
